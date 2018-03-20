@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Export mission to IngressMosaik
-// @version      0.1.0.20171126.00
+// @version      0.1.0.20180213.00
 // @description  Export ingress mission to ingressmosaik.com.
 // @author       kanaxi
 // @include        https://www.ingress.com/intel*
