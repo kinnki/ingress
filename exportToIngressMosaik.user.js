@@ -37,7 +37,7 @@ unsafeWindow.IngressMosaik.processMissions = function() {
 					detail : result.result,
 					user : $('#name span').text(),
 					fra : $('#name span').attr("class"),
-					v : "0.1.0.20171126.00"};
+					v : "0.1.0.20180213.00"};
             $.ajax({
                     dataType: 'json',
                     async: false,
